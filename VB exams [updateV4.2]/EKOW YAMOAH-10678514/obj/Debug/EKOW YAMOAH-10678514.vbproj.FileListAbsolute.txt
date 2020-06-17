@@ -1,0 +1,25 @@
+c:\users\dr yme\documents\visual studio 2015\Projects\EKOW YAMOAH-10678514\EKOW YAMOAH-10678514\bin\Debug\EKOW YAMOAH-10678514.exe.config
+c:\users\dr yme\documents\visual studio 2015\Projects\EKOW YAMOAH-10678514\EKOW YAMOAH-10678514\bin\Debug\EKOW YAMOAH-10678514.exe
+c:\users\dr yme\documents\visual studio 2015\Projects\EKOW YAMOAH-10678514\EKOW YAMOAH-10678514\bin\Debug\EKOW YAMOAH-10678514.pdb
+c:\users\dr yme\documents\visual studio 2015\Projects\EKOW YAMOAH-10678514\EKOW YAMOAH-10678514\bin\Debug\EKOW YAMOAH-10678514.xml
+c:\users\dr yme\documents\visual studio 2015\Projects\EKOW YAMOAH-10678514\EKOW YAMOAH-10678514\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\dr yme\documents\visual studio 2015\Projects\EKOW YAMOAH-10678514\EKOW YAMOAH-10678514\obj\Debug\EKOW YAMOAH-10678514.vbprojResolveAssemblyReference.cache
+c:\users\dr yme\documents\visual studio 2015\Projects\EKOW YAMOAH-10678514\EKOW YAMOAH-10678514\obj\Debug\EKOW_YAMOAH_10678514.Form1.resources
+c:\users\dr yme\documents\visual studio 2015\Projects\EKOW YAMOAH-10678514\EKOW YAMOAH-10678514\obj\Debug\EKOW_YAMOAH_10678514.Resources.resources
+c:\users\dr yme\documents\visual studio 2015\Projects\EKOW YAMOAH-10678514\EKOW YAMOAH-10678514\obj\Debug\EKOW YAMOAH-10678514.vbproj.GenerateResource.Cache
+c:\users\dr yme\documents\visual studio 2015\Projects\EKOW YAMOAH-10678514\EKOW YAMOAH-10678514\obj\Debug\EKOW YAMOAH-10678514.exe
+c:\users\dr yme\documents\visual studio 2015\Projects\EKOW YAMOAH-10678514\EKOW YAMOAH-10678514\obj\Debug\EKOW YAMOAH-10678514.xml
+c:\users\dr yme\documents\visual studio 2015\Projects\EKOW YAMOAH-10678514\EKOW YAMOAH-10678514\obj\Debug\EKOW YAMOAH-10678514.pdb
+C:\Users\DR YME\documents\visual studio 2015\Projects\EKOW YAMOAH-10678514\EKOW YAMOAH-10678514\obj\Debug\EKOW_YAMOAH_10678514.loginForm.resources
+C:\Users\DR YME\documents\visual studio 2015\Projects\EKOW YAMOAH-10678514\EKOW YAMOAH-10678514\bin\Debug\Timtim.accdb
+C:\Users\DR YME\documents\visual studio 2015\Projects\EKOW YAMOAH-10678514\EKOW YAMOAH-10678514\bin\Debug\MySql.Data.dll
+C:\Users\DR YME\documents\visual studio 2015\Projects\EKOW YAMOAH-10678514\EKOW YAMOAH-10678514\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\DR YME\documents\visual studio 2015\Projects\EKOW YAMOAH-10678514\EKOW YAMOAH-10678514\bin\Debug\Google.Protobuf.dll
+C:\Users\DR YME\documents\visual studio 2015\Projects\EKOW YAMOAH-10678514\EKOW YAMOAH-10678514\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DR YME\documents\visual studio 2015\Projects\EKOW YAMOAH-10678514\EKOW YAMOAH-10678514\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\DR YME\documents\visual studio 2015\Projects\EKOW YAMOAH-10678514\EKOW YAMOAH-10678514\bin\Debug\Renci.SshNet.dll
+C:\Users\DR YME\documents\visual studio 2015\Projects\EKOW YAMOAH-10678514\EKOW YAMOAH-10678514\bin\Debug\MySql.Data.xml
+C:\Users\DR YME\documents\visual studio 2015\Projects\EKOW YAMOAH-10678514\EKOW YAMOAH-10678514\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\DR YME\documents\visual studio 2015\Projects\EKOW YAMOAH-10678514\EKOW YAMOAH-10678514\obj\Debug\EKOW_YAMOAH_10678514.outClients.resources
+C:\Users\DR YME\Documents\Visual Studio 2015\Projects\EKOW YAMOAH-10678514\EKOW YAMOAH-10678514\obj\Debug\EKOW_YAMOAH_10678514.FormList.resources
+C:\Users\DR YME\Documents\Visual Studio 2015\Projects\EKOW YAMOAH-10678514\EKOW YAMOAH-10678514\obj\Debug\EKOW_YAMOAH_10678514.AdminLog.resources
